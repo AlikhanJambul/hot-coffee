@@ -1,0 +1,18 @@
+[
+  {
+    "order_id": "order2",
+    "customer_name": "John Doe",
+    "items": [
+      {
+        "product_id": "espresso",
+        "quantity": 1
+      },
+      {
+        "product_id": "latte",
+        "quantity": 2
+      }
+    ],
+    "status": "Close",
+    "created_at": "2025-01-27 17:05:51"
+  }
+]
